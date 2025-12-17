@@ -15,11 +15,11 @@ Example 1
 
 Input:
 
-Project deadline extended to October 15
+.Project deadline extended to October 15
 
-Budget approved for marketing campaign
+.Budget approved for marketing campaign
 
-Next meeting scheduled for Monday
+.Next meeting scheduled for Monday
 
 Output:
 
